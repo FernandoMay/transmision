@@ -1,13 +1,14 @@
 /* Estos son los ficheros de cabecera usuales */
-#include "stdio.h"
-#include "sys/types.h"
-#include "sys/socket.h"
-#include "netinet/in.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <sys/types.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
 
 #define PORT 3550 /* El puerto que será abierto */
 #define BACKLOG 2 /* El número de conexiones permitidas */
 
-main(){
+int main(){
     int fd, fd2; /* los ficheros descriptores */
     struct sockaddr_in server;
     /* para la información de la dirección del servidor */
