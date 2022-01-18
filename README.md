@@ -2,7 +2,7 @@
 
 # Cliente Servidor Datagrama
 # Cliente Servidor Flujo
-# Cliente Servidor Mensajes
+# Cliente Servidor Ventana Deslizante
 
 ![App](77.png)
 ![Roller](66.png)
