@@ -1,22 +1,9 @@
-# transmision
+## Transmisión de datos
 
-Transmisi├│n de Datos
+# Cliente Servidor Datagrama
+# Cliente Servidor Flujo
+# Cliente Servidor Ventana Deslizante
 
-## Overview
-
-| Attribute | Details |
-|-----------|---------|
-| **Language** | C |
-| **Size** | ~0.1 MB |
-| **Last Updated** | 2022-01-16T09:58:03Z |
-
-## Getting Started
-
-```bash
-git clone https://github.com/FernandoMay/transmision.git
-cd transmision
-```
-
-## License
-
-MIT
+![App](77.png)
+![Roller](66.png)
+![Rollerc](8.png)
